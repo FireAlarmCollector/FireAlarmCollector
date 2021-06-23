@@ -2,7 +2,7 @@
 - 👀 I’m interested in Fire Alarm Collecting
 - 🌱 I’m currently learning how to wiring fire alarms
 - 💞️ I’m looking to collaborate on YouTube
-- 📫 How to reach me . . .
+- 📫 How to reach me You could reach me on Edgar1047632@gmail.com
 
 <!---
 FireAlarmCollector/FireAlarmCollector is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
